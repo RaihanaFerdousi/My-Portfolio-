@@ -19,7 +19,6 @@ const technicalSkills = [
     skills: [
       { name: "Node.js", level:40 },
       { name: "Express.js", level: 30 },
-      { name: "REST APIs", level: 80 },
     ]
   },
   {
@@ -27,7 +26,7 @@ const technicalSkills = [
     category: "Database",
     skills: [
       { name: "MongoDB", level: 75 },
-      { name: "Mongoose", level: 70 },
+      { name: "Mongoose", level: 50 },
     ]
   },
   {
@@ -36,7 +35,6 @@ const technicalSkills = [
     skills: [
       { name: "Git", level: 80 },
       { name: "npm", level: 85 },
-      { name: "Webpack", level: 70 },
     ]
   }
 ];
