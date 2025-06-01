@@ -13,8 +13,6 @@ const Banner = () => {
       className="relative px-20 py-20"
     >
       <div className="relative flex max-w-[1300px] gap-5 mx-auto items-center">
-
-
         <div className="w-1/2">
           <h1 className="text-6xl lobster">
             Nice To Meet You <br /> I'am{" "}

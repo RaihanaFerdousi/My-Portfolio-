@@ -40,14 +40,13 @@ const projects = [
     githubUrl: "#",
   },
 ];
-
 function MyProjects() {
   return (
     <div className="min-h-screen">
       {/* Hero Section */}
       <header className="relative overflow-hidden bg-slate-900 text-white">
         <div className="absolute inset-0 bg-gradient-to-br from-indigo-600 to-purple-700 opacity-90" />
-        <div className="relative">
+        <div className="relative">    
           <div className="container mx-auto px-6 py-24">
             <motion.div
               initial={{ opacity: 0, y: 20 }}
